@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World 👋 🙏
 
 🔭 I’m currently working on applying my new found skills to real life projects that I have envisioned in my head. I'm excited to one day share with you projects that I can call - my pride and joy. For right now I have a few project with which I can show off. These projects are stepping stones to my goals...
 
