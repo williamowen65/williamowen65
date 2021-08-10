@@ -7,6 +7,5 @@
 - 👯 I’m looking to collaborate on any projects, including allowing others on my own. Look through these repos to see if you would be interested in contributing.
 - 🤔 I’m looking for help getting intrigrated with the social network of developers. The reality is that I have been working alone as a learn this whole time.
 - 💬 Ask me about my projects. Each is fun, unique, and some are visionary. 
-- 📫 How to reach me: Email: Phone: ...
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Tidal locking prevents us from ever seeing the dark side of the moon.
+- 📫 How to reach me: Email: Phone: ...
