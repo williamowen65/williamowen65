@@ -12,4 +12,10 @@
 
 ⚡ Fun fact: Tidal locking prevents us from ever seeing the dark side of the moon.
 
-📫 How to reach me: Email: Phone: ...
+📫 How to reach me:
+
+
+> Email: 
+>
+> Phone: + 1 213 266 5755 (Virtual Number provided by Sonetel.com)
+
