@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Wills's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamowen65&theme=solarized-light&show_icons=true)]
+[![Wills's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamowen65&theme=solarized-light&show_icons=true)
