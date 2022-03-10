@@ -16,6 +16,5 @@
 
 
 > Email: islandhopper152@gmail.com
->
-> Phone: + 1 213 266 5755 (Virtual Number provided by Sonetel.com)
+
 
