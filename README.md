@@ -1,4 +1,3 @@
-# Explore my stuff
 
 
 <a href="https://github.com/williamowen65/GeographicPinMap?tab=readme-ov-file#geographic-pin-map"><img src="assets/geographicPinMap.gif" width="125px" /> </a>
