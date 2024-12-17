@@ -5,7 +5,7 @@
 <br>
 <a href="https://github.com/williamowen65/newsletter-signup-android-app"><img src="assets/A Simple Android Application.gif"  width="49%"/> </a>
 <br>
-<a href="#"><img src="assets/art.gif"  width="49%"/> </a>
-<a href="#"><img src="assets/edit.gif"  width="49%"/> </a>
+<a href="https://www.bethowenwatercolors.com/"><img src="assets/art.gif"  width="49%"/> </a>
+<a href="https://www.bethowenwatercolors.com/"><img src="assets/edit.gif"  width="49%"/> </a>
 
 
