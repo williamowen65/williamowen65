@@ -53,7 +53,7 @@
 
 ---
 
-## 🎨 Personal / Art Projects
+## 🎨 Other
 
 <p align="center">
   <a href="https://www.bethowenwatercolors.com/">
