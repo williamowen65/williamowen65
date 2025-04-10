@@ -4,8 +4,8 @@
   <a href="https://github.com/williamowen65/GeographicPinMap?tab=readme-ov-file#geographic-pin-map">
     <img src="assets/geographicPinMap.gif" width="33%" />
   </a>
+  _A real-time geographic pin mapping visualization project._
 </p>
-<p align="center"><em>A real-time geographic pin mapping visualization project.</em></p>
 
 ---
 
