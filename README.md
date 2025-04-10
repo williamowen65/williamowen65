@@ -31,6 +31,15 @@
     <img src="assets/diceRoll.gif" height="100" />
   </a>
 </p>
+<p align="center">
+
+  <a href="https://github.com/williamowen65/Ascii-Art--with-SIZE-constant-">
+    <img src="assets/ascii-art.gif" width="33%" />
+  </a>
+    <a href="https://github.com/williamowen65/.NET-Web-Starter">
+    <img src="assets/google-vortex.gif" width="33%" />
+  </a>
+</p>
 
 ---
 
@@ -55,13 +64,5 @@
   </a>
 </p>
 
----
 
-## 💻 Web & Dev Tools
 
-<p align="center">
-
-  <a href="https://github.com/williamowen65/Ascii-Art--with-SIZE-constant-">
-    <img src="assets/ascii-art.gif" width="33%" />
-  </a>
-</p>
