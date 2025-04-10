@@ -4,7 +4,9 @@
   <a href="https://github.com/williamowen65/GeographicPinMap?tab=readme-ov-file#geographic-pin-map">
     <img src="assets/geographicPinMap.gif" width="33%" />
   </a>
-  _A real-time geographic pin mapping visualization project._
+</p>
+<p align="center">
+<em style="test">A real-time geographic pin mapping visualization project.</em>
 </p>
 
 ---
@@ -15,13 +17,13 @@
   <a href="https://github.com/williamowen65/Book-Shop?tab=readme-ov-file#book-shop">
     <img src="assets/Book Registration (Windows Forms + SQL Server).gif" width="33%" />
   </a>
-  <a href="https://github.com/williamowen65/Yahtzee-WFA">
-    <img src="assets/diceRoll.gif" width="33%" />
-  </a>
   <a href="https://github.com/williamowen65/DocumentTemplater">
     <img src="assets/document-generator.gif" width="33%" />
   </a>
 </p>
+<p align="center">  <a href="https://github.com/williamowen65/Yahtzee-WFA">
+    <img src="assets/diceRoll.gif" height="100" />
+  </a></p>
 
 ---
 
