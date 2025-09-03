@@ -45,13 +45,13 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬Atlas:_The_Public_Think_Tank-000?)](https://github.com/williamowen65/atlas-the-public-think-tank)
+[![Atlas The Public Think Tank Repo](https://img.shields.io/badge/-🧬Atlas:_The_Public_Think_Tank-efde5f?)](https://github.com/williamowen65/atlas-the-public-think-tank)
 
 
 
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamowen65&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=williamowen65&show_icons=true&theme=radical)
+[![![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamowen65&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=williamowen65&show_icons=true&theme=radical)](#)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamowen65&layout=donut&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=williamowen65&layout=donut&theme=radical)
+[![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamowen65&layout=donut&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=williamowen65&layout=donut&theme=radical)](#)
 
