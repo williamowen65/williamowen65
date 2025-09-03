@@ -11,7 +11,7 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/-CSharp-239120?&logo=csharp&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 
 
