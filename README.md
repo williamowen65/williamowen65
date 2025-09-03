@@ -35,8 +35,8 @@
 ![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-000?&logo=googlecloud)
 ![GAS](https://img.shields.io/badge/-Google_AppsScripts-000?&logo=google)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000?&logo=inkscape)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studo_Code-000)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studo-000)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio)](#)
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
 
