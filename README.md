@@ -1,27 +1,18 @@
-<table align="center">
-  <tr>
-    <td align="center"><h1>William Owen</h1></td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td align="center">Full-Stack Software Engineer</td>
-  </tr>
-  <tr>
-    <td align="center">Passionate about building high-quality software</td>
-  </tr>
-  <tr>
-    <td align="center">Open to Early-Career Roles</td>
-  </tr>
-  </table>
-  <table align="center">
-  <tr>
-    <td >🎓 4.0 graduate in <b>Computer Programming</b> (AAT, Clover Park Technical College, President’s List)</td>
-  </tr>
-  <tr>
-    <td >🚀 Next step: <b>Accelerated B.S. + M.S. in Computer Science</b> at <b>Western Governors University</b></td>
-  </tr>
-</table>
+<div align="center">
+
+# William Owen  
+
+**Full-Stack Software Engineer**  
+💻 Passionate about building high-quality software  
+🌱 Open to Early-Career Roles  
+
+🎓 4.0 graduate in **Computer Programming**  
+(AAT, Clover Park Technical College, President’s List)  
+
+🚀 Next step: **Accelerated B.S. + M.S. in Computer Science**  
+at *Western Governors University*  
+
+</div>
 
 ### Languages
 
