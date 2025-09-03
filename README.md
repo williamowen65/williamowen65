@@ -1,5 +1,8 @@
-# William Owen  
-
+<table align="center">
+  <tr>
+    <td align="center"><h1>William Owen</h1></td>
+  </tr>
+</table>
 <table align="center">
   <tr>
     <td align="center">Full-Stack Software Engineer</td>
