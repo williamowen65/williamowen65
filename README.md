@@ -13,10 +13,10 @@
   </table>
   <table align="center">
   <tr>
-    <td align="center">🎓 4.0 graduate in <b>Computer Programming</b> (AAT, Clover Park Technical College, President’s List)</td>
+    <td >🎓 4.0 graduate in <b>Computer Programming</b> (AAT, Clover Park Technical College, President’s List)</td>
   </tr>
   <tr>
-    <td align="center">🚀 Next step: <b>Accelerated B.S. + M.S. in Computer Science</b> at <b>Western Governors University</b></td>
+    <td >🚀 Next step: <b>Accelerated B.S. + M.S. in Computer Science</b> at <b>Western Governors University</b></td>
   </tr>
 </table>
 
