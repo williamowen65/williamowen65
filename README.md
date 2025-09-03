@@ -9,35 +9,37 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/-CSharp-239120?&logo=csharp&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL&logoColor=white)](#)
+
 
 
 ### Technologies
 
-![.NET CORE](https://img.shields.io/badge/-ASP.NET_Core_MVC-512BD4?&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=000)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?&logo=Svelte&logoColor=fff)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?&logo=vue.js&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?&logo=d3.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?&logo=greensock&logoColor=fff)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?&logo=socket.io&logoColor=fff)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=webpack&logoColor=000)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=000)
-![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?&logo=googlecloud&logoColor=white)
-![GAS](https://img.shields.io/badge/-Google_Apps_Script-34A853?&logo=google&logoColor=white)
-![Inkscape](https://img.shields.io/badge/-Inkscape-000000?&logo=inkscape&logoColor=white)
+[![.NET CORE](https://img.shields.io/badge/-ASP.NET_Core_MVC-512BD4?&logo=dotnet&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=000)](#)
+[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?&logo=Svelte&logoColor=fff)](#)
+[![Vue](https://img.shields.io/badge/-Vue-4FC08D?&logo=vue.js&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3&logoColor=white)](#)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=white)](#)
+[![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?&logo=d3.js&logoColor=white)](#)
+[![GSAP](https://img.shields.io/badge/-GSAP-88CE02?&logo=greensock&logoColor=fff)](#)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?&logo=socket.io&logoColor=fff)](#)
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=webpack&logoColor=000)](#)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=000)](#)
+[![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?&logo=googlecloud&logoColor=white)](#)
+[![GAS](https://img.shields.io/badge/-Google_Apps_Script-34A853?&logo=google&logoColor=white)](#)
+[![Inkscape](https://img.shields.io/badge/-Inkscape-000000?&logo=inkscape&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](#)
+
 
 
 
