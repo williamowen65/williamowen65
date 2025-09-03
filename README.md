@@ -45,7 +45,7 @@
 
 ### Full Stack Projects
 
-[![Atlas The Public Think Tank Repo](https://img.shields.io/badge/-🧬Atlas:_The_Public_Think_Tank-efde5f?)](https://github.com/williamowen65/atlas-the-public-think-tank)
+[![Atlas The Public Think Tank Repo](https://img.shields.io/badge/-🌎Atlas:_The_Public_Think_Tank-efde5f?)](https://github.com/williamowen65/atlas-the-public-think-tank)
 
 
 
