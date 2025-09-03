@@ -10,6 +10,8 @@
   <tr>
     <td align="center">Open to Early-Career Roles</td>
   </tr>
+  </table>
+  <table align="center">
   <tr>
     <td align="center">🎓 4.0 graduate in <b>Computer Programming</b> (AAT, Clover Park Technical College, President’s List)</td>
   </tr>
