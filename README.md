@@ -1,6 +1,17 @@
 # William Owen  
 
-> Full-Stack Software Engineer  
+<table align="center">
+  <tr>
+    <td align="center">Full-Stack Software Engineer</td>
+  </tr>
+  <tr>
+    <td align="center">Passionate about building high-quality software</td>
+  </tr>
+  <tr>
+    <td align="center">Open to Early-Career Roles</td>
+  </tr>
+</table>
+
 
 🎓 4.0 graduate in **Computer Programming** (AAT, Clover Park Technical College, President’s List).  
 
