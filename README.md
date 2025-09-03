@@ -10,13 +10,13 @@
   <tr>
     <td align="center">Open to Early-Career Roles</td>
   </tr>
+  <tr>
+    <td align="center">🎓 4.0 graduate in <b>Computer Programming</b> (AAT, Clover Park Technical College, President’s List)</td>
+  </tr>
+  <tr>
+    <td align="center">🚀 Next step: <b>Accelerated B.S. + M.S. in Computer Science</b> at <b>Western Governors University</b></td>
+  </tr>
 </table>
-
-
-🎓 4.0 graduate in **Computer Programming** (AAT, Clover Park Technical College, President’s List).  
-
-🚀 Next step: **Accelerated B.S. + M.S. in Computer Science** at **Western Governors University**.  
-
 
 ### Languages
 
