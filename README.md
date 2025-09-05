@@ -54,6 +54,9 @@ at *Western Governors University*
 
 [![Atlas The Public Think Tank Repo](https://img.shields.io/badge/-🌎Atlas:_The_Public_Think_Tank-efde5f?)](https://github.com/williamowen65/atlas-the-public-think-tank)
 
+### Currently Learning
+
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 
 
 
