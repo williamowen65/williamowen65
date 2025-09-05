@@ -46,6 +46,8 @@ at *Western Governors University*
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 
 
